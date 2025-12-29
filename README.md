@@ -64,11 +64,11 @@ To view the website on your machine:
 
 1\. Clone the repository  
 
-&nbsp;  ```bash
+&nbsp;  ```
 
 &nbsp;  git clone https://github.com/zylan07/Harry-Potter-My-First-WebSite.git
 
-```
+
 
 
 
